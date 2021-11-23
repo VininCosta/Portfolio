@@ -38,7 +38,7 @@ body {
 }
 
 .profile-pic {
-  border-radius: 50%;
+  border-radius: 10%;
   margin: 0 auto 2rem auto;
   height: 250px;
 }
