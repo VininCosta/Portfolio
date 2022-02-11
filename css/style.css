@@ -98,3 +98,7 @@ body {
   text-shadow: 2px 2px 16px black;
   margin: 50vh 0;
 }
+
+.subtitulo {
+  color: rgb(87, 87, 87);
+}
