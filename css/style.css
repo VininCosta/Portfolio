@@ -14,7 +14,7 @@ li {
 
 body {
   font-family: "Source Code Pro", monospace;
-  background: linear-gradient(rgb(255, 255, 255), rgb(187, 187, 187));
+  background: linear-gradient(rgb(8, 8, 8), rgb(90, 90, 90));
   background-attachment: fixed;
   background-size: cover;
   display: grid;
@@ -38,7 +38,7 @@ body {
 }
 
 .profile-pic {
-  border-radius: 10%;
+  border-radius: 5%;
   margin: 0 auto 2rem auto;
   height: 250px;
 }
